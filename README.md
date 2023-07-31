@@ -1,0 +1,1 @@
+In this project, I've will build a convolutional neural network (CNN) that can predict whether a plant is suffering from a disease. I've used different layers and hyperparameters to build, train, and test this classification model. I have used TensorFlow and Keras for this project.
